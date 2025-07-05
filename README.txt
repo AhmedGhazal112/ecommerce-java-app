@@ -59,7 +59,7 @@ E-Commerce/
 
 1. Open a terminal and navigate to the project directory:
    ```bash
-   cd E-Commerce/src
+   cd ecommerce-java-app/src
    ```
 
 2. Compile all Java files:
